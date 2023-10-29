@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Prajapati</h1>
-<h3 align="center">A Programmer and passionate full  stack developer from India</h3>
+<h3 align="center">A Programmer and passionate full stack developer from India</h3>
 <img align="right" alt=Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakstwt&label=Profile%20views&color=0e75b6&style=flat" alt="deepakstwt" /> </p>
 
