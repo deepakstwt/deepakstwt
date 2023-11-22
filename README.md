@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA in c++, along  with  HTML, CSS and javascript**
 
-- 🤝 I’m looking for help with **DSA in C++**
+- 🤝 I’m looking for help with **DSA in JAVA**
 
 - 📫 How to reach me **deepakprajapatiproplus@gmail.com**
 
