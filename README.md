@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Deepak+Prajapati+%F0%9F%91%8B;Full+Stack+Developer+%7C+iOS+App+Developer;Building+the+future+one+line+at+a+time+%F0%9F%9A%80;From+Cricket+Fields+to+Code+Commits+%F0%9F%8F%8F">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Deepak+Prajapati+👋;Full+Stack+Developer+|+iOS+App+Developer;Building+the+future+one+line+at+a+time+🚀;From+Cricket+Fields+to+Code+Commits+🏏">
 
-<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist: Dark Skin Tone" />
-<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Mobile%20Phone.png" alt="Mobile Phone" />
-<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Cricket%20Game.png" alt="Cricket Game" />
+<br>
 
-<h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
-Full Stack Developer | 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" />
-iOS App Developer | 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Cricket%20Game.png" alt="Cricket Game" width="25" height="25" />
-Cricketer turned Coder
-</h3>
+## 👋 Hello, I'm **Deepak Prajapati**
+
+### 💻 Full Stack Developer | 📱 iOS App Developer | 🏏 Cricketer turned Coder
+
+<br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge&labelColor=000000&logo=About.me&logoColor=FF5722)](https://my-portfolio-man.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/deepak-prajapati123)
@@ -22,7 +17,11 @@ Cricketer turned Coder
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -60,67 +59,48 @@ const deepak = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakstwt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Tech Arsenal
+## 🛠️ Tech Arsenal
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=swift,react,js,java,nodejs,mongodb,firebase,git,github,aws&theme=dark" alt="Tech Stack" />
+</div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Languages & Fundamentals
+### 💻 Languages & Fundamentals
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,go,swift,js,cpp&theme=dark" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Frontend Development
+### 🌐 Frontend Development  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> iOS Development
+### 📱 iOS Development
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-green?style=for-the-badge&logo=apple&logoColor=white)
 ![EventKit](https://img.shields.io/badge/EventKit-orange?style=for-the-badge&logo=apple&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=swift,xcode&theme=dark" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Backend Development
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> Databases & Backend Services
+### 🗄️ Databases & Backend Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase&theme=dark" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tools & Technologies
+### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark" />
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=swift,swiftui,xcode,ios;line2=javascript,react,nextjs,nodejs;line3=mongodb,firebase,git,aws" alt="My Tech Stack" />
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
 
@@ -387,10 +367,10 @@ graph TD
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakstwt&custom_title=Deepak's%20Learning%20Journey&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Learning Journey" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Telephone" width="35" height="35" /> Let's Connect & Build Something Amazing!
+## 📞 Let's Connect & Build Something Amazing!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Open+for+collaborations+🤝;Let's+build+the+future+together!+🚀;Always+ready+to+discuss+tech+💡;Coffee+chat%3F+Let's+connect!+☕" alt="Connect with me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Open+for+collaborations+🤝;Let's+build+the+future+together!+🚀;Always+ready+to+discuss+tech+💡;Coffee+chat?+Let's+connect!+☕" alt="Connect with me">
 </div>
 
 <table align="center">
