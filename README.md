@@ -313,8 +313,6 @@ const developer = {
 
 <div align="center">
 
-<=🎯+Mastering+System+Design;📱+Advanced+iOS+Development;🤖+AI%2FML+Integration;☁️+Cloud+Architecture;🌐+Full+Stack+Excellence" alt="Goals Animation">
-
 </div>
 
 <table width="100%">
@@ -371,8 +369,6 @@ const developer = {
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+for+collaborations+🤝;Let's+build+something+amazing!+🚀;Always+ready+to+discuss+tech+💡;Coffee+chat?+Let's+connect!+☕" alt="Connect Animation">
 
 <table>
 <tr>
