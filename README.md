@@ -313,7 +313,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=A9FEF7&center=true&vCenter=true&width=800&lines=🎯+Mastering+System+Design;📱+Advanced+iOS+Development;🤖+AI%2FML+Integration;☁️+Cloud+Architecture;🌐+Full+Stack+Excellence" alt="Goals Animation">
+<=🎯+Mastering+System+Design;📱+Advanced+iOS+Development;🤖+AI%2FML+Integration;☁️+Cloud+Architecture;🌐+Full+Stack+Excellence" alt="Goals Animation">
 
 </div>
 
