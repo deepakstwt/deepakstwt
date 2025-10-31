@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Deepak Prajapati | AI-Powered Engineering Architect
+# 🌟 Deepak Prajapati | AI-Powered Engineering Architect & Open Source Contributor
 ### *Building Tomorrow's Intelligent Applications Today*
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI-Powered+iOS+Engineer;%F0%9F%9A%80+Full+Stack+Innovation+Leader;%F0%9F%8F%86+Apple+Top+100+Developer;%F0%9F%A7%A0+Next.js+15+%2B+AI+Specialist;%E2%9A%A1+From+Cricket+Captain+to+Code+Architect" alt="Dynamic Typing Animation">
