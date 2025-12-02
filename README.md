@@ -118,17 +118,6 @@ Software developer with experience building iOS applications and full-stack web 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakstwt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&icon_color=00D4AA&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstwt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakstwt&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=FF6B6B&fire=FFD43B&currStreakLabel=00D4AA)
-
-</div>
 
 ---
 
