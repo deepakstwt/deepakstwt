@@ -2,7 +2,7 @@
 
 # 👋 Deepak Prajapati
 
-**Software Developer** | iOS • Full Stack • AI Integration
+**Software Developer** | Full Stack • iOS • AI Integration
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-man.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-prajapati123)
