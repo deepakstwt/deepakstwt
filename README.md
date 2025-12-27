@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About
 
-Software developer with experience building iOS applications and full-stack web applications. Currently working with Swift/SwiftUI for native iOS development and Next.js/React for web applications. Interested in integrating AI capabilities into applications using OpenAI and Google Gemini APIs.
+Software Developer with experience building scalable full-stack web applications and native mobile solutions. Strong background in modern frontend and backend development, with hands-on experience using React, Next.js, Node.js, and Swift/SwiftUI for cross-platform and native workflows. Actively exploring the integration of AI-driven capabilities into applications using APIs such as OpenAI and Google Gemini, with a focus on building reliable, production-ready systems.
 
 **Currently:** B.Tech Computer Science at Galgotias University (2022-2026)
 
