@@ -1,82 +1,82 @@
+<div align="center">
+
 # Deepak Prajapati
 
-**Full-stack developer** — scalable web applications, solid architecture, and practical AI integration.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+things+that+scale.)](https://git.io/typing-svg)
 
-[Portfolio](https://my-portfolio-man.vercel.app/) · [GitHub](https://github.com/deepakstwt) · [LinkedIn](https://linkedin.com/in/deepak-prajapati123) · [Twitter](https://twitter.com/deepakstwt)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-man.vercel.app/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakstwt)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-prajapati123)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/deepakstwt)
+
+</div>
+
+<br/>
 
 ---
 
 ## About
 
-I build end-to-end products: **React / Next.js** on the client, **Node.js** APIs and services on the server, thoughtful data modeling, and deployment on modern cloud platforms. I care about performance, clarity, and shipping work that holds up in production.
+I'm a **full-stack software developer** focused on building end-to-end products that work in production — clean APIs, performant frontends, and thoughtful data models. I integrate AI where it genuinely improves the product, not just for novelty.
 
-**B.Tech, Computer Science** — Galgotias University (2022–2026) · CGPA **8.57 / 10**
+Currently in my final year of **B.Tech Computer Science** at Galgotias University (CGPA **8.57 / 10**, 2022–2026).
 
----
-
-## Focus
-
-- Full-stack delivery: UI, APIs, databases, and deployment
-- AI-assisted features where they add real value (LLMs, tooling, integrations)
-- Readable systems: structure, tests, and maintainability over novelty
+> *"Ship it. Then make it better."*
 
 ---
 
 ## Stack
 
-**Languages**  
-TypeScript, JavaScript, Python, SQL, Swift
-
-**Frontend**  
-React, Next.js, Tailwind CSS, Redux, HTML, CSS
-
-**Backend**  
-Node.js, Express, tRPC, Prisma, REST, GraphQL
-
-**Data**  
-PostgreSQL, MongoDB, MySQL, Redis, Firebase, Supabase
-
-**AI & tooling**  
-OpenAI, Gemini, LangChain
-
-**Platform**  
-AWS, Docker, Vercel, GitHub Actions, Git, Linux
-
-**Mobile**  
-iOS, SwiftUI
-
----
-
-## Certifications
-
-- **Oracle Cloud Infrastructure** — Generative AI Professional  
-- **IIT Kharagpur (NPTEL)** — Compiler Design  
-- **Udemy** — Full Stack Web Development Bootcamp  
+| Domain | Technologies |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · SQL · Swift |
+| **Frontend** | React · Next.js · Tailwind CSS · Redux |
+| **Backend** | Node.js · Express · tRPC · Prisma · GraphQL · REST |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis · Supabase · Firebase |
+| **AI / ML** | OpenAI · Gemini · LangChain |
+| **Cloud & DevOps** | AWS · Docker · Vercel · GitHub Actions · Linux |
+| **Mobile** | iOS · SwiftUI |
 
 ---
 
 ## Currently
 
-- Deepening **system design**, **microservices**, and **advanced TypeScript**
-- Building **AI-powered web apps**, **SaaS-style products**, and **Next.js** projects
-- Exploring **RAG**, **serverless**, and **real-time** patterns
+- Deepening **system design**, microservices patterns, and advanced TypeScript
+- Building AI-powered SaaS products with Next.js 15
+- Exploring RAG pipelines, serverless architecture, and real-time systems
 
 ---
 
-## Principles
+## GitHub Stats
 
-- Clean, testable code and clear ownership from data layer to deploy  
-- Performance and security treated as requirements, not extras  
-- UX informs technical choices; shipping beats perfect-on-paper  
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=deepakstwt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstwt&layout=compact&theme=github_dark&hide_border=true&langs_count=7" />
+
+</div>
+
+---
+
+## Certifications
+
+- **Oracle Cloud Infrastructure** — Generative AI Professional
+- **IIT Kharagpur · NPTEL** — Compiler Design
+- **Udemy** — Full Stack Web Development Bootcamp
 
 ---
 
 ## Open to
 
-Full-stack or software engineering roles, freelance web work, open-source collaboration, and technical discussion.
+Full-stack engineering roles · Freelance web projects · Open-source collaboration
 
-**Contact:** [LinkedIn](https://linkedin.com/in/deepak-prajapati123) or via [portfolio](https://my-portfolio-man.vercel.app/).
+**Reach me:** [LinkedIn](https://linkedin.com/in/deepak-prajapati123) &nbsp;·&nbsp; [Portfolio](https://my-portfolio-man.vercel.app/)
 
 ---
 
-*The best time to plant a tree was twenty years ago. The second best time is now.*
+<div align="center">
+<sub>The best time to plant a tree was twenty years ago. The second best time is now.</sub>
+</div>
