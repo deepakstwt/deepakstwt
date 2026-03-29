@@ -88,23 +88,6 @@ I'm a **full-stack developer** who builds end-to-end products — from the data 
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<!-- Run the snake workflow once (see .github/workflows/snake.yml), then uncomment below -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake.svg">
-</picture>
--->
-
-</div>
-
----
-
 ## Currently
 
 - Deepening **system design**, microservices patterns, and advanced TypeScript
