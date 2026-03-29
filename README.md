@@ -1,51 +1,60 @@
 <div align="center">
 
+<!-- Profile views counter -->
+[![Profile Views](https://komarev.com/ghpvc/?username=deepakstwt&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/deepakstwt)
+
 # Deepak Prajapati
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+things+that+scale.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Developer;AI+Integration+%26+LLM+Applications;Building+scalable+products+end-to-end)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-man.vercel.app/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakstwt)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-prajapati123)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/deepakstwt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-man.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-prajapati123)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/deepakstwt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakstwt)
 
 </div>
 
-<br/>
+---
+
+## About me
+
+I'm a **full-stack developer** who builds end-to-end products — from the data model up through the API, to a polished frontend, then shipped to production. I care about clean architecture, real performance, and making AI integrations that actually add value rather than just adding weight.
+
+**B.Tech, Computer Science Engineering** · Galgotias University · 2022–2026 · CGPA **8.57 / 10**
 
 ---
 
-## About
+## Tech Stack
 
-I'm a **full-stack software developer** focused on building end-to-end products that work in production — clean APIs, performant frontends, and thoughtful data models. I integrate AI where it genuinely improves the product, not just for novelty.
+<div align="center">
 
-Currently in my final year of **B.Tech Computer Science** at Galgotias University (CGPA **8.57 / 10**, 2022–2026).
+**Languages**
 
-> *"Ship it. Then make it better."*
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,swift,bash&theme=dark)](https://skillicons.dev)
 
----
+**Frontend**
 
-## Stack
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark)](https://skillicons.dev)
 
-| Domain | Technologies |
-|---|---|
-| **Languages** | TypeScript · JavaScript · Python · SQL · Swift |
-| **Frontend** | React · Next.js · Tailwind CSS · Redux |
-| **Backend** | Node.js · Express · tRPC · Prisma · GraphQL · REST |
-| **Databases** | PostgreSQL · MongoDB · MySQL · Redis · Supabase · Firebase |
-| **AI / ML** | OpenAI · Gemini · LangChain |
-| **Cloud & DevOps** | AWS · Docker · Vercel · GitHub Actions · Linux |
-| **Mobile** | iOS · SwiftUI |
+**Backend & APIs**
 
----
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,graphql,prisma&theme=dark)](https://skillicons.dev)
 
-## Currently
+**Databases**
 
-- Deepening **system design**, microservices patterns, and advanced TypeScript
-- Building AI-powered SaaS products with Next.js 15
-- Exploring RAG pipelines, serverless architecture, and real-time systems
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,vercel,githubactions,git,linux&theme=dark)](https://skillicons.dev)
+
+**Mobile**
+
+[![Mobile](https://skillicons.dev/icons?i=swift,xcode&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -53,30 +62,76 @@ Currently in my final year of **B.Tech Computer Science** at Galgotias Universit
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=deepakstwt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstwt&layout=compact&theme=github_dark&hide_border=true&langs_count=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=deepakstwt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstwt&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=deepakstwt" height="170" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakstwt&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/deepakstwt)
 
 </div>
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakstwt&theme=react-dark&hide_border=true&area=true)](https://github.com/deepakstwt)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<!-- Run the snake workflow once (see .github/workflows/snake.yml), then uncomment below -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/deepakstwt/deepakstwt/output/github-contribution-grid-snake.svg">
+</picture>
+-->
+
+</div>
+
+---
+
+## Currently
+
+- Deepening **system design**, microservices patterns, and advanced TypeScript
+- Building **AI-powered SaaS products** with Next.js 15
+- Exploring **RAG pipelines**, serverless architecture, and real-time systems
+- Reading: *Designing Data-Intensive Applications*
+
+---
+
 ## Certifications
 
-- **Oracle Cloud Infrastructure** — Generative AI Professional
-- **IIT Kharagpur · NPTEL** — Compiler Design
-- **Udemy** — Full Stack Web Development Bootcamp
+| Issuer | Credential |
+|---|---|
+| **Oracle Cloud** | Generative AI Professional |
+| **IIT Kharagpur · NPTEL** | Compiler Design |
+| **Udemy** | Full Stack Web Development Bootcamp |
 
 ---
 
 ## Open to
 
-Full-stack engineering roles · Freelance web projects · Open-source collaboration
+Full-stack and software engineering roles &nbsp;·&nbsp; Freelance web projects &nbsp;·&nbsp; Open-source collaboration
 
-**Reach me:** [LinkedIn](https://linkedin.com/in/deepak-prajapati123) &nbsp;·&nbsp; [Portfolio](https://my-portfolio-man.vercel.app/)
+**Reach me →** [LinkedIn](https://linkedin.com/in/deepak-prajapati123) &nbsp;·&nbsp; [Portfolio](https://my-portfolio-man.vercel.app/)
 
 ---
 
 <div align="center">
-<sub>The best time to plant a tree was twenty years ago. The second best time is now.</sub>
+<sub><i>"The best time to plant a tree was twenty years ago. The second best time is now."</i></sub>
 </div>
