@@ -5,7 +5,7 @@
 
 # Deepak Prajapati
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Developer;AI+Integration+%26+LLM+Applications;Building+scalable+products+end-to-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Software+Developer+exploring+AI%2FML;Building+Agentic+RAG+%26+LLM+Pipelines;Active+Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,6 +25,13 @@
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,py,swift,bash&theme=dark)](https://skillicons.dev)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Frontend**
 
@@ -82,10 +89,13 @@
 
 ## Currently
 
-- Deepening **system design**, microservices patterns, and advanced TypeScript
-- Building **AI-powered SaaS products** with Next.js 15
-- Exploring **RAG pipelines**, serverless architecture, and real-time systems
-- Reading: *Designing Data-Intensive Applications*
+- Architecting end-to-end **Agentic RAG pipelines** and scalable **LLM applications**
+- Working with **Vector Databases** (pgvector, Pinecone) and optimizing prompt engineering
+- Building **AI-powered SaaS products** integrating LangChain, Hugging Face, and Gemini AI
+- 📚 **Currently Reading (AI Engineering Focus):**
+  - *The LLM Engineering Handbook* by Paul Iusztin & Maxime Labonne
+  - *Build a Large Language Model (From Scratch)* by Sebastian Raschka
+  - *AI Engineering: Building Applications with Foundation Models* by Chip Huyen
 
 ---
 
