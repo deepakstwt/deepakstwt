@@ -18,14 +18,6 @@
 
 ---
 
-## About me
-
-I'm a **full-stack developer** who builds end-to-end products — from the data model up through the API, to a polished frontend, then shipped to production. I care about clean architecture, real performance, and making AI integrations that actually add value rather than just adding weight.
-
-**B.Tech, Computer Science Engineering** · Galgotias University · 2022–2026 · CGPA **8.57 / 10**
-
----
-
 ## Tech Stack
 
 <div align="center">
