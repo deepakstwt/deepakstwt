@@ -57,15 +57,7 @@
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepakstwt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstwt&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=deepakstwt" height="170" />
-
-</div>
 
 <br/>
 
